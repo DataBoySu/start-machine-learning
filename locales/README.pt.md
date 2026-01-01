@@ -1,6 +1,6 @@
 <!--START_SECTION:navbar-->
 <div align="center">
-  <a href="../README.md">🇺🇸 English</a> | <a href="README.de.md">🇩🇪 Deutsch</a> | <a href="README.fr.md">🇫🇷 Français</a> | <a href="README.hi.md">🇮🇳 हिंदी</a> | <a href="README.ja.md">🇯🇵 日本語</a> | <a href="README.ko.md">🇰🇷 한국어</a> | <a href="README.pt.md">🇵🇹 Português</a> | <a href="README.ru.md">🇷🇺 Русский</a> | <a href="README.zh.md">🇨🇳 中文</a>
+  <a href="../README.md">🇺🇸 English</a> | <a href="README.de.md">🇩🇪 Deutsch</a> | <a href="README.es.md">🇪🇸 Español</a> | <a href="README.fr.md">🇫🇷 Français</a> | <a href="README.hi.md">🇮🇳 हिंदी</a> | <a href="README.ja.md">🇯🇵 日本語</a> | <a href="README.ko.md">🇰🇷 한국어</a> | <a href="README.pt.md">🇵🇹 Português</a> | <a href="README.ru.md">🇷🇺 Русский</a> | <a href="README.zh.md">🇨🇳 中文</a>
 </div>
 <!--END_SECTION:navbar-->
 
@@ -8,19 +8,19 @@
 
 ## Um guia completo para começar e melhorar em machine learning (ML), inteligência artificial (AI) em 2025 sem QUALQUER background na área e fique atualizado com as últimas notícias e técnicas de ponta!
 
-This guide is intended for anyone having zero or a small background in programming, maths, and machine learning. There is no specific order to follow, but a classic path would be from top to bottom. If you don't like reading books, skip it, if you don't want to follow an online course, you can skip it as well. There is not a single way to become a machine learning expert and with motivation, you can absolutely achieve it.
+Este guia é destinado a qualquer pessoa com zero ou um pequeno conhecimento em programação, matemática e aprendizado de máquina. Não há uma ordem específica a seguir, mas um caminho clássico seria do topo para baixo. Se você não gosta de ler livros, pule esta seção; se não quiser seguir um curso online, também pode pular. Não existe uma única maneira de se tornar um especialista em aprendizado de máquina e, com motivação, você pode alcançar isso com certeza.
 
-All resources listed here are free, except some online courses and books, which are certainly recommended for a better understanding, but it is definitely possible to become an expert without them, with a little more time spent on online readings, videos and practice. When it comes to paying courses, the links in this guide are affiliated links. Please, use them if you feel like following a course as it will support me. Thank you, and have fun learning! Remember, this is completely up to you and not necessary. I felt like it was useful to me and maybe useful to others as well.
+Todos os recursos listados aqui são gratuitos, exceto alguns cursos online e livros, que são certamente recomendados para uma melhor compreensão, mas é definitivamente possível se tornar um especialista sem eles, gastando um pouco mais de tempo em leituras online, vídeos e prática. Quando se trata de cursos pagos, os links neste guia são links afiliados. Por favor, use-os se quiser seguir um curso, pois isso me apoia. Obrigado, e divirta-se aprendendo! Lembre-se, isso é totalmente sua decisão e não é necessário. Eu achei que seria útil para mim e talvez útil para outros também.
 
-Don't be afraid to repeat videos or learn from multiple sources. Repetition is the key of success to learning!
+Não tenha medo de repetir vídeos ou aprender de múltiplas fontes. A repetição é a chave para o sucesso no aprendizado!
 
-Maintainer: [louisfb01](https://github.com/louisfb01), also active on [YouTube](https://www.youtube.com/@whatsai) and as a [Podcaster](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3) if you want to see/hear more about AI! You can also learn more twice a week in [my personal newsletter](https://louisbouchard.substack.com/)! [Subscribe](https://louisbouchard.substack.com/) and get AI news and updates explained clearly!
+Mantenedor: [louisfb01](https://github.com/louisfb01), também ativo no [YouTube](https://www.youtube.com/@whatsai) e como [Podcaster](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3) se quiser ver/ouvir mais sobre IA! Você também pode aprender duas vezes por semana no [meu boletim pessoal](https://louisbouchard.substack.com/)! [Assine](https://louisbouchard.substack.com/) e receba notícias e atualizações sobre IA explicadas claramente!
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40whats_ai)](https://twitter.com/Whats_AI)
 
-Feel free to message me any great resources to add to this repository at bouchard.lf@gmail.com
+Sinta-se à vontade para me enviar quaisquer recursos excelentes para adicionar a este repositório em bouchard.lf@gmail.com
 
-***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
+***Mencione-me no Twitter [@Whats_AI](https://twitter.com/Whats_AI) ou no LinkedIn [@Louis Bouchard](https://www.linkedin.com/in/whats-ai/) se você compartilhar a lista!***
 
 ### Quer saber do que este guia trata? Assista a este vídeo:
 
@@ -91,8 +91,8 @@ Aqui está uma lista de cursos incríveis disponíveis no YouTube que você defi
 
 ### Leia muitos artigos
 
-Here is a list of awesome articles available online that you should definitely read and are 100% free.
-[Medium](https://whats-ai.medium.com/membership) is pretty much the best place to find great explanations, either on [Towards AI](https://pub.towardsai.net/) or [Towards Data Science](https://towardsdatascience.com/) publications. I also share my own articles there and I love using the platform. You can subscribe to Medium using my affiliated link [here](https://whats-ai.medium.com/membership) if this sounds interesting to you and if you'd like to support me at the same time!
+Aqui está uma lista de artigos incríveis disponíveis online que você definitivamente deve ler e que são 100% gratuitos.
+[Medium](https://whats-ai.medium.com/membership) é basicamente o melhor lugar para encontrar explicações excelentes, seja nas publicações [Towards AI](https://pub.towardsai.net/) ou [Towards Data Science](https://towardsdatascience.com/). Eu também compartilho meus próprios artigos lá e adoro usar a plataforma. Você pode se inscrever no Medium usando meu link afiliado [aqui](https://whats-ai.medium.com/membership) se isso soa interessante para você e se quiser me apoiar ao mesmo tempo!
 
 * [Start AI in 2022 — Become an expert from nothing, for free!](https://www.louisbouchard.ai/learnai/) - Louis Bouchard
 * [5 Beginner Friendly Steps to Learn Machine Learning and Data Science with Python](https://towardsdatascience.com/5-beginner-friendly-steps-to-learn-machine-learning-and-data-science-with-python-bf69e211ade5) - Daniel Bourke
@@ -100,7 +100,7 @@ Here is a list of awesome articles available online that you should definitely r
 * [Machine Learning for Beginners: An Introduction to Neural Networks](https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9) - Victor Zhou
 * [A Beginners Guide to Neural Networks](https://towardsdatascience.com/a-beginners-guide-to-neural-networks-d5cf7e369a13#:~:text=Neural%20networks%20are%20powered%20by,then%20recognize%2C%20interpret%20and%20classify.) - Thomas Davis
 * [Understanding Neural Networks](https://towardsdatascience.com/understanding-neural-networks-22b29755abd9) - Prince Canuma
-* [Reading lists for new MILA students](https://docs.google.com/document/d/1IXF3h0RU5zz4ukmTrVKVotPQypChscNGf5k6E25HGvA/edit#) - Anonymous
+* [Reading lists for new MILA students](https://docs.google.com/document/d/1IXF3h0RU5zz4ukmTrVKVotPQypChscNGf5k6E25HGvA/edit#) - Anônimo
 * [The 80/20 AI Reading List](https://medium.com/machine-learning-for-humans/ai-reading-list-c4753afd97a) - Vishal Maini
 
 ## Leia Livros<a name="readbooks"></a>
@@ -211,19 +211,19 @@ Felizmente, [Kaggle](https://www.kaggle.com/) existe. Esse site está cheio de c
 
 Você também pode criar equipes para competições do Kaggle e aprender com outras pessoas! Sugiro que você participe de uma comunidade para encontrar uma equipe e aprender com outros, sempre é melhor do que estar sozinho. Confira a próxima seção para isso.
 
-## Want to build language models/apps? Check this out (Now with LLMs!)!<a name="nlp"></a>
+## Quer construir modelos de linguagem/aplicativos? Confira isso (Agora com LLMs!)!<a name="nlp"></a>
 
-I had a lot of requests from people wanting to focus on natural language processing (NLP) (models dealing with language) or even learn machine learning strictly for NLP tasks. This is a section dedicated to that need. Happy NLP learning!
-* [A complete roadmap to master NLP in 2022](https://www.analyticsvidhya.com/blog/2022/01/roadmap-to-master-nlp-in-2022/)
-* [Become an NLP pro with Coursera's Natural Language Processing Specialization by deeplearning.ai](https://coursera.pxf.io/P0vO9e) - Paid
- _"Break into the NLP space. Master cutting-edge NLP techniques through four hands-on courses!"_
-* [An NLP Nano Degree!](https://imp.i115008.net/jW4K60) — Paid
-_"Learn cutting-edge natural language processing techniques to process speech and analyze text. Build probabilistic and deep learning models, such as hidden Markov models and recurrent neural networks, to teach the computer to do tasks such as speech recognition, machine translation, and more!"_
-* NLTK Book is the free resource to learn about fundamental theories behind NLP: https://www.nltk.org/book/
-* Looking to build a quick text classification model or word vectorizer, [fasttext](https://fasttext.cc/docs/en/supervised-tutorial.html) is a good library to quickly train up a model.
-* [Huggingface](https://huggingface.co/course/chapter1/1) is THE place to get modern day NLP models, and they also include a whole [course](https://huggingface.co/course/chapter1/1) about it.
-* [SpaCy](https://course.spacy.io/en/) is great for NLP in production, as it does NLU, NER, and one can train classification, etc with it. It's also able to add customized steps or models into the pipeline.
-* [Prompting!](https://learnprompting.org/) Prompting is a new skill that you should master if you want to build NLP-related apps. This is a great course I am contributing to, intending to teach prompting and give tips for specific models.
+Tive muitas solicitações de pessoas querendo se concentrar em processamento de linguagem natural (NLP) (modelos que lidam com linguagem) ou até aprender machine learning estritamente para tarefas de NLP. Esta seção é dedicada a essa necessidade. Boa sorte no aprendizado de NLP!
+* [Um roadmap completo para dominar NLP em 2022](https://www.analyticsvidhya.com/blog/2022/01/roadmap-to-master-nlp-in-2022/)
+* [Seja um profissional de NLP com a Especialização em Processamento de Linguagem Natural da Coursera pela deeplearning.ai](https://coursera.pxf.io/P0vO9e) - Pago
+ _"Entre no espaço de NLP. Domine técnicas de ponta de NLP por meio de quatro cursos práticos!"_
+* [Um Nano Degree em NLP!](https://imp.i115008.net/jW4K60) — Pago
+_"Aprenda técnicas de ponta de processamento de linguagem natural para processar fala e analisar texto. Construa modelos probabilísticos e de aprendizado profundo, como modelos de Markov ocultos e redes neurais recorrentes, para ensinar o computador a fazer tarefas como reconhecimento de fala, tradução automática e muito mais!"_
+* O livro NLTK é um recurso gratuito para aprender sobre as teorias fundamentais por trás do NLP: https://www.nltk.org/book/
+* Quer construir um modelo de classificação de texto rápido ou um vetorizador de palavras, o [fasttext](https://fasttext.cc/docs/en/supervised-tutorial.html) é uma boa biblioteca para treinar rapidamente um modelo.
+* [Huggingface](https://huggingface.co/course/chapter1/1) é O lugar para obter modelos modernos de NLP, e eles também incluem um todo [curso](https://huggingface.co/course/chapter1/1) sobre isso.
+* [SpaCy](https://course.spacy.io/en/) é ótimo para NLP em produção, pois faz NLU, NER e uma pessoa pode treinar classificação, etc com ele. Ele também é capaz de adicionar etapas ou modelos personalizados no pipeline.
+* [Prompting!](https://learnprompting.org/) O prompting é uma nova habilidade que você deve dominar se quiser construir aplicativos relacionados a NLP. Este é um excelente curso ao qual estou contribuindo, com a intenção de ensinar prompting e dar dicas para modelos específicos.
 
 ### Treine, ajuste e use Grandes Modelos de Linguagem!
 
@@ -260,39 +260,39 @@ _"Learn cutting-edge natural language processing techniques to process speech an
 
 [<img src="https://imgur.com/hLr2aQF.png" width="512"/>](https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev?ref=1f9b29)
 
-### Follow the news in the field!
+### Siga as notícias no campo!
 
-* Subscribe to YouTube channels that share new papers - Stay up to date with the news in the field!
-    * [Louis Bouchard](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) - Weekly videos covering new papers
-    * [Two Minutes Papers](https://www.youtube.com/user/keeroyz) - Bi-weekly videos covering new papers
-    * [Bycloud](https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng) - Weekly videos covering new papers
+* Inscreva-se em canais do YouTube que compartilham novos artigos - Mantenha-se atualizado com as notícias do campo!
+    * [Louis Bouchard](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) - Vídeos semanais cobrindo novos artigos
+    * [Two Minutes Papers](https://www.youtube.com/user/keeroyz) - Vídeos quinzenais cobrindo novos artigos
+    * [Bycloud](https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng) - Vídeos semanais cobrindo novos artigos
     
-* LinkedIn Groups
-    * [Artificial Intelligence, Machine Learning and Deep Learning News](https://www.linkedin.com/groups/8942343/) - News of the field shared by everyone in the group
+* Grupos do LinkedIn
+    * [Artificial Intelligence, Machine Learning and Deep Learning News](https://www.linkedin.com/groups/8942343/) - Notícias do campo compartilhadas por todos os membros do grupo
     * [Artificial Intelligence | Deep Learning  | Machine Learning](https://www.linkedin.com/groups/45655/)
     * [Applied Artificial Intelligence](https://www.linkedin.com/groups/127447/)
     
-* Facebook Groups
-    * [Artificial Intelligence & Deep Learning](https://www.facebook.com/groups/DeepNetGroup) - The definitive and most active FB Group on A.I., Neural Networks and Deep Learning. All things new and interesting on the frontier of A.I. and Deep Learning. Neural networks will redefine what it means to be a smart machine in the years to come.
-    * [Deep learning](https://www.facebook.com/groups/DeepLearnng/) - Nowadays society tends to be soft and automated evolving into the 4th industrial revolution, which consequently drives the constituents into the swirl of societal upheaval. To survive or take a lead one is supposed to be equipped with associated tools. Machine is becoming smarter and more intelligent. Machine learning is inescapable skill and it requires people to be familiar with. This group is for these people who are interest in the development of their talents to fit in.
+* Grupos do Facebook
+    * [Artificial Intelligence & Deep Learning](https://www.facebook.com/groups/DeepNetGroup) - O grupo definitivo e mais ativo do Facebook sobre IA, redes neurais e aprendizado profundo. Tudo o que for novo e interessante na fronteira da IA e do aprendizado profundo. Redes neurais redefinirão o que significa ser uma máquina inteligente nos próximos anos.
+    * [Deep learning](https://www.facebook.com/groups/DeepLearnng/) - Hoje em dia, a sociedade tende a ser suave e automatizada, evoluindo para a 4ª revolução industrial, o que consequentemente leva os constituintes ao redemoinho de transformações sociais. Para sobreviver ou liderar, é preciso estar equipado com ferramentas associadas. Máquinas estão se tornando mais inteligentes e inteligentes. Aprendizado de máquina é uma habilidade inevitável e exige que as pessoas se familiarizem com ela. Este grupo é para essas pessoas que estão interessadas no desenvolvimento de seus talentos para se adaptar.
 
 * Newsletters
-   * [AlphaSignal](https://alphasignal.ai/) — The Most Read Technical Newsletter in AI
-   * [AI News](https://buttondown.email/ainews/archive/) - by Swyx & friends - a lot of LLM aid going on indexing ~356 Twitters, ~21 Discords, etc. (I personally mostly read the main recap)
-   * [Inside AI](https://inside.com/ai) - A daily roundup of stories and commentary on Artificial Intelligence, Robotics, and Neurotechnology.
-   * [AI Weekly](http://aiweekly.co/) - A weekly collection of AI News and resources on Artificial Intelligence and Machine Learning.
-   * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - The latest updates in AI Ethics delivered to your inbox every week.
-   * [Louis Bouchard Weekly](https://louisbouchard.substack.com/) - One and only one paper clearly explained weekly with an article, video demo, demo, code, etc.
-   * [Toward's AI newsletter](https://towardsai.net/ai/newsletter) - Summarizing the most interesting news and learning resources weekly as well as community updates from the Learn AI Together Discord community. Perfect for ML professionals and enthusiasts.
+   * [AlphaSignal](https://alphasignal.ai/) — A Newsletter Técnica Mais Lida em IA
+   * [AI News](https://buttondown.email/ainews/archive/) - por Swyx & amigos - muito apoio de LLM em indexar ~356 Twitters, ~21 Discords, etc. (Eu pessoalmente leio principalmente o resumo principal)
+   * [Inside AI](https://inside.com/ai) - Uma compilação diária de histórias e comentários sobre Inteligência Artificial, Robótica e Neurotecnologia.
+   * [AI Weekly](http://aiweekly.co/) - Uma coletânea semanal de notícias e recursos sobre Inteligência Artificial e Aprendizado de Máquina.
+   * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - As últimas atualizações em Ética da IA entregues à sua caixa de entrada a cada semana.
+   * [Louis Bouchard Weekly](https://louisbouchard.substack.com/) - Um e apenas um artigo explicando claramente uma vez por semana com um artigo, demonstração de vídeo, demonstração, código, etc.
+   * [Toward's AI newsletter](https://towardsai.net/ai/newsletter) - Resumindo as notícias mais interessantes e recursos de aprendizado semanalmente, bem como atualizações da comunidade do Discord Learn AI Together. Perfeito para profissionais e entusiastas de ML.
     
-* Follow Medium accounts and publications
-    * [Towards Data Science](https://towardsdatascience.com/) - "Sharing concepts, ideas, and codes"
-    * [Towards AI](https://medium.com/towards-artificial-intelligence) - "The Best of Tech, Science, and Engineering."
-    * [OneZero](https://onezero.medium.com/) - "The undercurrents of the future. A Medium publication about tech and science."
-    * [Louis Bouchard](https://whats-ai.medium.com/) - "Hi, I am Louis (loo·ee, French pronunciation), from Montreal, Canada. I try to share and explain artificial intelligence terms and news the best way I can for everyone. My goal is to demystify the AI “black box” for everyone and sensitize people about the risks of using it."
+* Siga contas e publicações do Medium
+    * [Towards Data Science](https://towardsdatascience.com/) - "Compartilhando conceitos, ideias e códigos"
+    * [Towards AI](https://medium.com/towards-artificial-intelligence) - "O melhor de tecnologia, ciência e engenharia."
+    * [OneZero](https://onezero.medium.com/) - "As correntes subjacentes do futuro. Uma publicação do Medium sobre tecnologia e ciência."
+    * [Louis Bouchard](https://whats-ai.medium.com/) - "Oi, sou Louis (loo·ee, pronúncia francesa), de Montreal, Canadá. Tento compartilhar e explicar termos e notícias de inteligência artificial da melhor forma que posso para todos. Meu objetivo é desmistificar a 'caixa preta' da IA para todos e sensibilizar as pessoas sobre os riscos de usá-la."
    
-* Check this complete GitHub guide to keep up with AI News
-   * [BAILOOL/DoYouEvenLearn](https://github.com/louisfb01/DoYouEvenLearn) - Essential Guide to keep up with AI/ML/DL/CV
+* Verifique este guia completo do GitHub para acompanhar as notícias de IA
+   * [BAILOOL/DoYouEvenLearn](https://github.com/louisfb01/DoYouEvenLearn) - Guia essencial para acompanhar notícias de IA/ML/DL/CV
 
 ## Encontre um emprego em aprendizado de máquina<a name="findajob"></a>
 

@@ -1,6 +1,6 @@
 <!--START_SECTION:navbar-->
 <div align="center">
-  <a href="../README.md">🇺🇸 English</a> | <a href="README.de.md">🇩🇪 Deutsch</a> | <a href="README.fr.md">🇫🇷 Français</a> | <a href="README.hi.md">🇮🇳 हिंदी</a> | <a href="README.ja.md">🇯🇵 日本語</a> | <a href="README.ko.md">🇰🇷 한국어</a> | <a href="README.pt.md">🇵🇹 Português</a> | <a href="README.ru.md">🇷🇺 Русский</a> | <a href="README.zh.md">🇨🇳 中文</a>
+  <a href="../README.md">🇺🇸 English</a> | <a href="README.de.md">🇩🇪 Deutsch</a> | <a href="README.es.md">🇪🇸 Español</a> | <a href="README.fr.md">🇫🇷 Français</a> | <a href="README.hi.md">🇮🇳 हिंदी</a> | <a href="README.ja.md">🇯🇵 日本語</a> | <a href="README.ko.md">🇰🇷 한국어</a> | <a href="README.pt.md">🇵🇹 Português</a> | <a href="README.ru.md">🇷🇺 Русский</a> | <a href="README.zh.md">🇨🇳 中文</a>
 </div>
 <!--END_SECTION:navbar-->
 
@@ -8,19 +8,19 @@
 
 ## 一份完整的指南，帮助你在2025年启动并提升机器学习（ML）和人工智能（AI）技能，即使没有任何相关背景，也能紧跟最新新闻和最先进的技术！
 
-This guide is intended for anyone having zero or a small background in programming, maths, and machine learning. There is no specific order to follow, but a classic path would be from top to bottom. If you don't like reading books, skip it, if you don't want to follow an online course, you can skip it as well. There is not a single way to become a machine learning expert and with motivation, you can absolutely achieve it.
+本指南适用于没有任何或仅有少量编程、数学和机器学习背景的人。没有特定的顺序需要遵循，但经典的路径是从上到下。如果你不喜欢阅读书籍，可以跳过；如果你不想参加在线课程，也可以跳过。成为机器学习专家没有单一的方式，只要有动力，你完全可以实现。
 
-All resources listed here are free, except some online courses and books, which are certainly recommended for a better understanding, but it is definitely possible to become an expert without them, with a little more time spent on online readings, videos and practice. When it comes to paying courses, the links in this guide are affiliated links. Please, use them if you feel like following a course as it will support me. Thank you, and have fun learning! Remember, this is completely up to you and not necessary. I felt like it was useful to me and maybe useful to others as well.
+这里列出的所有资源都是免费的，除了某些在线课程和书籍，它们对于更好地理解肯定是推荐的，但不使用它们也完全可以成为专家，只需在在线阅读、视频和实践中花费更多时间。至于付费课程，本指南中的链接是关联链接。如果你打算参加课程，请使用它们，这将支持我。谢谢，祝你学习愉快！请记住，这完全取决于你，不是必须的。我觉得这对我是有用的，也许对其他人也有用。
 
-Don't be afraid to repeat videos or learn from multiple sources. Repetition is the key of success to learning!
+不要害怕重复观看视频或从多个来源学习。重复是学习成功的关键！
 
-Maintainer: [louisfb01](https://github.com/louisfb01), also active on [YouTube](https://www.youtube.com/@whatsai) and as a [Podcaster](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3) if you want to see/hear more about AI! You can also learn more twice a week in [my personal newsletter](https://louisbouchard.substack.com/)! [Subscribe](https://louisbouchard.substack.com/) and get AI news and updates explained clearly!
+维护者：[louisfb01](https://github.com/louisfb01)，也在[YouTube](https://www.youtube.com/@whatsai)和作为[播客主持人](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3)上活跃，如果你想了解更多关于AI的内容！你也可以每周两次在我的个人通讯中[了解更多](https://louisbouchard.substack.com/)！[订阅](https://louisbouchard.substack.com/)并获取清晰解释的AI新闻和更新！
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40whats_ai)](https://twitter.com/Whats_AI)
 
-Feel free to message me any great resources to add to this repository at bouchard.lf@gmail.com
+欢迎将任何优秀的资源发送给我，添加到这个仓库中：bouchard.lf@gmail.com
 
-***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
+***在Twitter上标记我[@Whats_AI](https://twitter.com/Whats_AI)或LinkedIn[@Louis Bouchard](https://www.linkedin.com/in/whats-ai/)，如果你分享了这个列表！***
 
 ### 想了解本指南的内容？观看此视频：
 
@@ -53,23 +53,23 @@ Feel free to message me any great resources to add to this repository at bouchar
 
 ### 从简短的 YouTube 视频介绍开始
 
-This is the best way to start from nothing in my opinion. Here, I list a few of the best videos I found that will give you a great first introduction of the terms you need to know to get started in the field.
+在我看来，这是从零开始的最佳方式。在这里，我列出了一些我找到的最好的视频，这些视频将为你提供一个很好的入门介绍，帮助你了解进入该领域所需掌握的术语。
 
-* Introduction to the most used terms
-    * [Learn the basics in a minute - Louis Bouchard](https://www.youtube.com/playlist?list=PLO4GrDnQanVe6F6MRJg_KO7JEoH-ukFzY) - YouTube Playlist
-    
-* Understand the neural networks
-    * [Foundational Knowledge for LLMs and building on top of LLMs](https://youtu.be/R5_udqy1L4s) - 2 free sessions of 2 hours each, covering all you need to know about LLMs.
-    * [Neural Networks Demystified - Welch Labs](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU) - YouTube Playlist
-    * [Learn Neural Networks - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - YouTube Playlist
-    * [Math for Machine Learning - Weights & Biases](https://www.youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg) - YouTube Playlist
-    * [The spelled-out intro to neural networks and backpropagation: building micrograd](https://youtu.be/VMj-3S1tku0) - YouTube Video by Andrej Karpathy
+* 介绍最常用的术语
+    * [一分钟了解基础知识 - Louis Bouchard](https://www.youtube.com/playlist?list=PLO4GrDnQanVe6F6MRJg_KO7JEoH-ukFzY) - YouTube 视频合集
 
-* Understanding Transformers and LLMs (i.e. models behind ChatGPT)!
-   * Luis Serrano, "[Natural Language Processing and Large Language Models](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvYskDS2icIItfZgxclApVLv)" - amazing video introductions to the attention mechanism, tokens, embeddings and more to better understand everything behind large language models like GPT!
-   * Louis Bouchard's LLM free course videos "[Train & Fine-Tune LLMs for Production Course by Activeloop, Towards AI & Intel Disruptor](https://youtube.com/playlist?list=PLO4GrDnQanVcPlQUBuMd_pwRkILfc463G&si=QbXeHeDs5RSKH3nY)". "A playlist for our LLM course: Gen AI 360: Foundational Model Certification!"
+* 理解神经网络
+    * [大型语言模型的基础知识及在其基础上构建](https://youtu.be/R5_udqy1L4s) - 两节各2小时的免费课程，涵盖你了解大型语言模型所需的所有知识。
+    * [神经网络解密 - Welch Labs](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU) - YouTube 视频合集
+    * [学习神经网络 - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - YouTube 视频合集
+    * [机器学习的数学 - Weights & Biases](https://www.youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg) - YouTube 视频合集
+    * [神经网络和反向传播的详细入门：构建微梯度](https://youtu.be/VMj-3S1tku0) - Andrej Karpathy 的 YouTube 视频
 
-Another easy **way to get started and keep learning is by listening to podcasts** in your spare time. Driving to work, on the bus, or having trouble falling asleep? Listen to some AI podcasts to get used to the terms and patterns, and learn about the field through inspiring stories! I invite you to follow a few of the best I personally prefer, like [Lex Fridman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL), [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR), [Latent Space Podcast](https://www.latent.space/podcast), and obviously, my podcast: [Louis Bouchard Podcast](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3), where you will learn about incredibly talented people in the field with inspiring stories sharing the knowledge they worked so hard to gather.
+* 理解 Transformer 和 LLMs（即 ChatGPT 背后的模型）！
+   * Luis Serrano，"[自然语言处理和大型语言模型](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvYskDS2icIItfZgxclApVLv)" - 令人惊叹的视频介绍注意力机制、token、嵌入等，帮助你更好地理解 GPT 等大型语言模型背后的一切。
+   * Louis Bouchard 的 LLM 免费课程视频 "[由 Activeloop、Towards AI 与 Intel Disruptor 提供的 LLM 生产课程：训练与微调 LLM](https://youtube.com/playlist?list=PLO4GrDnQanVcPlQUBuMd_pwRkILfc463G&si=QbXeHeDs5RSKH3nY)"。"我们 LLM 课程的播放列表：Gen AI 360：基础模型认证！"
+
+另一个轻松 **入门并持续学习的方式是利用空闲时间收听播客**。在通勤、坐公交或难以入睡时，听听人工智能相关的播客，熟悉术语和模式，通过鼓舞人心的故事了解该领域！我邀请你关注一些我个人偏好的最佳播客，如 [Lex Fridman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL)，[Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR)，[Latent Space Podcast](https://www.latent.space/podcast)，当然还有我的播客：[Louis Bouchard Podcast](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3)，在这里你将了解到该领域中一些极其优秀的人才，他们分享着自己辛苦积累的知识和鼓舞人心的故事。
 
 ## 在 YouTube 上关注免费在线课程<a name="youtubecourses"></a>
 
@@ -91,47 +91,47 @@ Another easy **way to get started and keep learning is by listening to podcasts*
 
 ### 阅读多篇文章
 
-Here is a list of awesome articles available online that you should definitely read and are 100% free.
-[Medium](https://whats-ai.medium.com/membership) is pretty much the best place to find great explanations, either on [Towards AI](https://pub.towardsai.net/) or [Towards Data Science](https://towardsdatascience.com/) publications. I also share my own articles there and I love using the platform. You can subscribe to Medium using my affiliated link [here](https://whats-ai.medium.com/membership) if this sounds interesting to you and if you'd like to support me at the same time!
+以下是在线上可以阅读的精彩文章列表，100%免费。
+[Medium](https://whats-ai.medium.com/membership) 是寻找优秀解释的最佳地方，无论是 [Towards AI](https://pub.towardsai.net/) 还是 [Towards Data Science](https://towardsdatascience.com/) 出版物。我也在那里分享自己的文章，我很喜欢使用这个平台。如果你觉得这对你来说很有趣，并且想支持我，你可以通过我的附属链接 [这里](https://whats-ai.medium.com/membership) 订阅 Medium！
 
-* [Start AI in 2022 — Become an expert from nothing, for free!](https://www.louisbouchard.ai/learnai/) - Louis Bouchard
-* [5 Beginner Friendly Steps to Learn Machine Learning and Data Science with Python](https://towardsdatascience.com/5-beginner-friendly-steps-to-learn-machine-learning-and-data-science-with-python-bf69e211ade5) - Daniel Bourke
-* [What is Machine Learning?](https://medium.com/towards-artificial-intelligence/what-is-machine-learning-ml-b58162f97ec7) - Roberto Iriondo
-* [Machine Learning for Beginners: An Introduction to Neural Networks](https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9) - Victor Zhou
-* [A Beginners Guide to Neural Networks](https://towardsdatascience.com/a-beginners-guide-to-neural-networks-d5cf7e369a13#:~:text=Neural%20networks%20are%20powered%20by,then%20recognize%2C%20interpret%20and%20classify.) - Thomas Davis
-* [Understanding Neural Networks](https://towardsdatascience.com/understanding-neural-networks-22b29755abd9) - Prince Canuma
-* [Reading lists for new MILA students](https://docs.google.com/document/d/1IXF3h0RU5zz4ukmTrVKVotPQypChscNGf5k6E25HGvA/edit#) - Anonymous
-* [The 80/20 AI Reading List](https://medium.com/machine-learning-for-humans/ai-reading-list-c4753afd97a) - Vishal Maini
+* [2022年入门AI —— 从零开始，免费成为专家！](https://www.louisbouchard.ai/learnai/) - Louis Bouchard
+* [5个适合初学者的步骤，学习使用Python进行机器学习和数据科学](https://towardsdatascience.com/5-beginner-friendly-steps-to-learn-machine-learning-and-data-science-with-python-bf69e211ade5) - Daniel Bourke
+* [什么是机器学习？](https://medium.com/towards-artificial-intelligence/what-is-machine-learning-ml-b58162f97ec7) - Roberto Iriondo
+* [给初学者的机器学习指南：神经网络简介](https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9) - Victor Zhou
+* [神经网络初学者指南](https://towardsdatascience.com/a-beginners-guide-to-neural-networks-d5cf7e369a13#:~:text=Neural%20networks%20are%20powered%20by,then%20recognize%2C%20interpret%20and%20classify.) - Thomas Davis
+* [理解神经网络](https://towardsdatascience.com/understanding-neural-networks-22b29755abd9) - Prince Canuma
+* [新MILA学生的阅读列表](https://docs.google.com/document/d/1IXF3h0RU5zz4ukmTrVKVotPQypChscNGf5k6E25HGvA/edit#) - 匿名
+* [80/20 AI阅读列表](https://medium.com/machine-learning-for-humans/ai-reading-list-c4753afd97a) - Vishal Maini
 
 ## 阅读书籍<a name="readbooks"></a>
 
 ### 阅读一些书籍
 
-Here are some great books to read for the people preferring the reading path.
+以下是适合喜欢阅读路径的人的一些优秀书籍：
 
-* [Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG](https://amzn.to/4bqYU9b) - by Towards AI. "Discover the key tech stacks for adapting Large Language Models to real-world applications, including Prompt Engineering, Fine-tuning, and Retrieval Augment Generation." (Or get the e-book [here](https://academy.towardsai.net/courses/buildingllmsforproduction?ref=1f9b29). You can DM me for a nice discount!)
-* [Deep learning book](https://www.deeplearningbook.org/) - Free Online
-* [Dive into Deep Learning](http://d2l.ai/) - Free Online
-* [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) - Free Online
-* [Artificial Intelligence: A Modern Approach](https://amzn.to/3mSqhk2) - Optional (Paying)
-* [Pattern Recognition and Machine Learning](https://amzn.to/3mPUGPF) - Optional (Paying)
-* [Deep Learning with Python](https://amzn.to/32iR3sm) - Optional (Paying)
-* [The LLM Engineer's Handbook](https://www.packtpub.com/en-us/product/llm-engineers-handbook-9781836200079?utm_medium=affiliate&utm_campaign=51b66f4e-29b2-68d8-f16e-67e2f9dfe6d0&utm_term=c35fe2b3-a89c-3ed8-1def-67c6a827b8eb&utm_content=B31105)—Build and refine LLMs step by step, covering data preparation, RAG, and fine-tuning.
-* [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html) - Shai Shalev-Shwartz and Shai Ben-David - Free Online
+* [Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG](https://amzn.to/4bqYU9b) - 作者：Towards AI。"发现用于将大型语言模型适应于实际应用的关键技术栈，包括提示工程、微调和检索增强生成。"（或在这里获取电子书 [here](https://academy.towardsai.net/courses/buildingllmsforproduction?ref=1f9b29)。你可以私信我获取一个不错的折扣！）
+* [Deep learning book](https://www.deeplearningbook.org/) - 免费在线
+* [Dive into Deep Learning](http://d2l.ai/) - 免费在线
+* [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) - 免费在线
+* [Artificial Intelligence: A Modern Approach](https://amzn.to/3mSqhk2) - 可选（付费）
+* [Pattern Recognition and Machine Learning](https://amzn.to/3mPUGPF) - 可选（付费）
+* [Deep Learning with Python](https://amzn.to/32iR3sm) - 可选（付费）
+* [The LLM Engineer's Handbook](https://www.packtpub.com/en-us/product/llm-engineers-handbook-9781836200079?utm_medium=affiliate&utm_campaign=51b66f4e-29b2-68d8-f16e-67e2f9dfe6d0&utm_term=c35fe2b3-a89c-3ed8-1def-67c6a827b8eb&utm_content=B31105)—逐步构建和优化大型语言模型，涵盖数据准备、RAG和微调。
+* [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html) - Shai Shalev-Shwartz 和 Shai Ben-David - 免费在线
 
-Great books for building your math background:
+构建数学背景的优秀书籍：
 
-* [Mathematics for Machine Learning](https://mml-book.com/) - Free Online
-* [The Elements of Statistical Learning](https://amzn.to/3mMn5Gy) - Optional (Paying)
-* [Statistical Inference](https://amzn.to/3wRqIzD) - Optional (Paying)
+* [Mathematics for Machine Learning](https://mml-book.com/) - 免费在线
+* [The Elements of Statistical Learning](https://amzn.to/3mMn5Gy) - 可选（付费）
+* [Statistical Inference](https://amzn.to/3wRqIzD) - 可选（付费）
 
-A complete Calculus background:
+完整的微积分背景：
 
-* [Calculus: Concepts and Contexts](https://amzn.to/2OT4NXC) - Optional (Paying)
-* [Single Variable Calculus: Concepts and Contexts](https://amzn.to/3wXtzHf) - Optional (Paying)
-* [Multivariable Calculus: Concepts and Contexts](https://amzn.to/32jIRYC) - Optional (Paying)
+* [Calculus: Concepts and Contexts](https://amzn.to/2OT4NXC) - 可选（付费）
+* [Single Variable Calculus: Concepts and Contexts](https://amzn.to/3wXtzHf) - 可选（付费）
+* [Multivariable Calculus: Concepts and Contexts](https://amzn.to/32jIRYC) - 可选（付费）
 
-These books are completely optional, but they will provide you a better understanding of the theory and even teach you some stuff about coding your neural networks!
+这些书籍是完全可选的，但它们将为你提供更好的理论理解，甚至教你一些关于编写神经网络代码的内容！
 
 ## 没有数学背景也能学机器学习？看看这个！<a name="math"></a>
 
@@ -156,20 +156,20 @@ These books are completely optional, but they will provide you a better understa
 
 ### 没有编程背景，也没问题
 
-Here is a list of some great courses to learn the programming side of machine learning.
+以下是学习机器学习编程方面的一些优秀课程列表。
 
-Here, I want to quickly mention that we recently released our new course, "Python for Generative AI" where we focus on teaching Python programming "as a tool" for working with AI systems. If your goal is to do that and not learn programming for the sake of programming, check it out [on the Towards AI Academy](https://academy.towardsai.net/courses/python-for-genai/?ref=1f9b29).
+在这里，我想快速提到，我们最近发布了新课程“Python for Generative AI”，我们专注于将 Python 编程作为工具来教学生如何与 AI 系统进行交互。如果你的目标是这样做，而不是为了学习编程而学习编程，可以查看 [Towards AI Academy](https://academy.towardsai.net/courses/python-for-genai/?ref=1f9b29)。
 
-* [Practical Machine Learning Tutorial with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v) - Free YouTube python introduction
-* [Learn Python](https://www.learnpython.org/) - Free interactive tutorial to learn python
-* [Learn Python Basics for Data Analysis](https://openclassrooms.com/en/courses/2304731-learn-python-basics-for-data-analysis/6009031-get-started-with-python-and-anaconda) - Free course on OpenClassrooms
-* [Getting started with Python and R for Data Science](https://youtu.be/6LWnvC2_DZI?list=PL8eNk_zTBST8kAYLTxYRnsOfznYMRhgZG) - Free
-* [Machine Learning with Python | Coursera - IBM](https://coursera.pxf.io/P0vOZe) - Optional (Paying)
-* [Introduction to Python for Data Science](https://datasciencedojo.com/python-for-data-science/ref/whatsai/) - In this Python for Data Science course, students will be learning core Python concepts and use the language as it relates to data science in a 16-week learning program (paying, optional).
-* [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) - A collection of exercises that have been collected in the numpy mailing list, on stack overflow and in the numpy documentation.
-* [Shell tutorial](https://swcarpentry.github.io/shell-novice/) - Learn to use the Unix shell! A must for developers and AI practitioners.
+* [实用机器学习教程（使用 Python）](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v) - 免费 YouTube Python 入门
+* [学习 Python](https://www.learnpython.org/) - 免费交互式教程学习 Python
+* [数据科学的 Python 基础](https://openclassrooms.com/en/courses/2304731-learn-python-basics-for-data-analysis/6009031-get-started-with-python-and-anaconda) - OpenClassrooms 上的免费课程
+* [数据科学的 Python 和 R 入门](https://youtu.be/6LWnvC2_DZI?list=PL8eNk_zTBST8kAYLTxYRnsOfznYMRhgZG) - 免费
+* [使用 Python 的机器学习 | Coursera - IBM](https://coursera.pxf.io/P0vOZe) - 可选（付费）
+* [数据科学的 Python 入门](https://datasciencedojo.com/python-for-data-science/ref/whatsai/) - 在这个数据科学的 Python 课程中，学生将学习核心 Python 概念，并在为期 16 周的学习计划中使用该语言与数据科学相关的内容（付费，可选）。
+* [100 个 NumPy 练习](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) - 一组在 NumPy 邮件列表、Stack Overflow 和 NumPy 文档中收集的练习。
+* [Shell 教程](https://swcarpentry.github.io/shell-novice/) - 学习使用 Unix shell！对开发人员和 AI 实践者来说是必备的。
 
-> Check out [the Louis Bouchard podcast](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3) for more AI content in the form of interviews with experts in the field! An invited AI expert and I will cover specific topics, sub-fields, and roles related to AI to teach and share knowledge from the people who worked hard to gather it.
+> 查看 [Louis Bouchard 的播客](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3)，以访谈形式获取更多人工智能内容！受邀的人工智能专家和我将涵盖与人工智能相关的特定主题、子领域和角色，以传授和分享那些努力收集这些知识的人的知识。
 
 ## Follow online courses<a name="onlinecourses"></a>
 
@@ -260,39 +260,39 @@ _"学习前沿的自然语言处理技术来处理语音和分析文本。构建
 
 [<img src="https://imgur.com/hLr2aQF.png" width="512"/>](https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev?ref=1f9b29)
 
-### Follow the news in the field!
+### 关注领域内的新闻！
 
-* Subscribe to YouTube channels that share new papers - Stay up to date with the news in the field!
-    * [Louis Bouchard](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) - Weekly videos covering new papers
-    * [Two Minutes Papers](https://www.youtube.com/user/keeroyz) - Bi-weekly videos covering new papers
-    * [Bycloud](https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng) - Weekly videos covering new papers
+* 订阅分享新论文的YouTube频道 - 保持与领域内新闻同步！
+    * [Louis Bouchard](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) - 每周视频介绍新论文
+    * [Two Minutes Papers](https://www.youtube.com/user/keeroyz) - 每两周视频介绍新论文
+    * [Bycloud](https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng) - 每周视频介绍新论文
     
-* LinkedIn Groups
-    * [Artificial Intelligence, Machine Learning and Deep Learning News](https://www.linkedin.com/groups/8942343/) - News of the field shared by everyone in the group
+* LinkedIn群组
+    * [Artificial Intelligence, Machine Learning and Deep Learning News](https://www.linkedin.com/groups/8942343/) - 群组成员分享领域内的新闻
     * [Artificial Intelligence | Deep Learning  | Machine Learning](https://www.linkedin.com/groups/45655/)
     * [Applied Artificial Intelligence](https://www.linkedin.com/groups/127447/)
     
-* Facebook Groups
-    * [Artificial Intelligence & Deep Learning](https://www.facebook.com/groups/DeepNetGroup) - The definitive and most active FB Group on A.I., Neural Networks and Deep Learning. All things new and interesting on the frontier of A.I. and Deep Learning. Neural networks will redefine what it means to be a smart machine in the years to come.
-    * [Deep learning](https://www.facebook.com/groups/DeepLearnng/) - Nowadays society tends to be soft and automated evolving into the 4th industrial revolution, which consequently drives the constituents into the swirl of societal upheaval. To survive or take a lead one is supposed to be equipped with associated tools. Machine is becoming smarter and more intelligent. Machine learning is inescapable skill and it requires people to be familiar with. This group is for these people who are interest in the development of their talents to fit in.
-
-* Newsletters
-   * [AlphaSignal](https://alphasignal.ai/) — The Most Read Technical Newsletter in AI
-   * [AI News](https://buttondown.email/ainews/archive/) - by Swyx & friends - a lot of LLM aid going on indexing ~356 Twitters, ~21 Discords, etc. (I personally mostly read the main recap)
-   * [Inside AI](https://inside.com/ai) - A daily roundup of stories and commentary on Artificial Intelligence, Robotics, and Neurotechnology.
-   * [AI Weekly](http://aiweekly.co/) - A weekly collection of AI News and resources on Artificial Intelligence and Machine Learning.
-   * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - The latest updates in AI Ethics delivered to your inbox every week.
-   * [Louis Bouchard Weekly](https://louisbouchard.substack.com/) - One and only one paper clearly explained weekly with an article, video demo, demo, code, etc.
-   * [Toward's AI newsletter](https://towardsai.net/ai/newsletter) - Summarizing the most interesting news and learning resources weekly as well as community updates from the Learn AI Together Discord community. Perfect for ML professionals and enthusiasts.
+* Facebook群组
+    * [Artificial Intelligence & Deep Learning](https://www.facebook.com/groups/DeepNetGroup) - 关于人工智能、神经网络和深度学习的最权威和最活跃的Facebook群组。所有关于人工智能和深度学习前沿的新鲜和有趣的内容。在未来的几年里，神经网络将重新定义智能机器的含义。
+    * [Deep learning](https://www.facebook.com/groups/DeepLearnng/) - 当今社会趋向于柔软和自动化，进入第四次工业革命，从而推动社会成员进入社会动荡的漩涡。为了生存或领先，人们应该配备相应的工具。机器变得越来越聪明和智能。机器学习是不可避免的技能，人们需要熟悉它。这个群组是为那些有兴趣发展自身才能以适应的人准备的。
     
-* Follow Medium accounts and publications
-    * [Towards Data Science](https://towardsdatascience.com/) - "Sharing concepts, ideas, and codes"
-    * [Towards AI](https://medium.com/towards-artificial-intelligence) - "The Best of Tech, Science, and Engineering."
-    * [OneZero](https://onezero.medium.com/) - "The undercurrents of the future. A Medium publication about tech and science."
-    * [Louis Bouchard](https://whats-ai.medium.com/) - "Hi, I am Louis (loo·ee, French pronunciation), from Montreal, Canada. I try to share and explain artificial intelligence terms and news the best way I can for everyone. My goal is to demystify the AI “black box” for everyone and sensitize people about the risks of using it."
+* 电子报
+   * [AlphaSignal](https://alphasignal.ai/) — 人工智能领域阅读量最多的技术电子报
+   * [AI News](https://buttondown.email/ainews/archive/) - 由Swyx及朋友创办 - 正在进行大量LLM辅助工作，索引约356个Twitter，约21个Discords等。（我个人主要阅读主要回顾）
+   * [Inside AI](https://inside.com/ai) - 人工智能、机器人技术和神经技术的每日新闻和评论汇总。
+   * [AI Weekly](http://aiweekly.co/) - 人工智能和机器学习新闻和资源的每周汇总。
+   * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - 每周将人工智能伦理的最新更新发送到您的邮箱。
+   * [Louis Bouchard Weekly](https://louisbouchard.substack.com/) - 每周用一篇文章、视频演示、演示、代码等清晰解释一篇论文。
+   * [Toward's AI newsletter](https://towardsai.net/ai/newsletter) - 每周汇总最有趣的新闻和学习资源，以及来自Learn AI Together Discord社区的社区更新。非常适合机器学习专业人士和爱好者。
+    
+* 关注Medium账号和出版物
+    * [Towards Data Science](https://towardsdatascience.com/) - "分享概念、想法和代码"
+    * [Towards AI](https://medium.com/towards-artificial-intelligence) - "科技、科学和工程的最佳内容。"
+    * [OneZero](https://onezero.medium.com/) - "未来的潜流。一个关于科技和科学的Medium出版物。"
+    * [Louis Bouchard](https://whats-ai.medium.com/) - "大家好，我是Louis（loo·ee，法语发音），来自加拿大蒙特利尔。我尽我所能地为每个人分享和解释人工智能术语和新闻。我的目标是为每个人揭开人工智能“黑箱”的神秘面纱，并提高人们对使用它所带来风险的认识。"
    
-* Check this complete GitHub guide to keep up with AI News
-   * [BAILOOL/DoYouEvenLearn](https://github.com/louisfb01/DoYouEvenLearn) - Essential Guide to keep up with AI/ML/DL/CV
+* 查看这个完整的GitHub指南以保持与人工智能新闻同步
+   * [BAILOOL/DoYouEvenLearn](https://github.com/louisfb01/DoYouEvenLearn) - 保持与人工智能、机器学习、深度学习、计算机视觉同步的必备指南
 
 ## Find a machine learning job<a name="findajob"></a>
 

@@ -1,6 +1,6 @@
 <!--START_SECTION:navbar-->
 <div align="center">
-  <a href="../README.md">🇺🇸 English</a> | <a href="README.de.md">🇩🇪 Deutsch</a> | <a href="README.fr.md">🇫🇷 Français</a> | <a href="README.hi.md">🇮🇳 हिंदी</a> | <a href="README.ja.md">🇯🇵 日本語</a> | <a href="README.ko.md">🇰🇷 한국어</a> | <a href="README.pt.md">🇵🇹 Português</a> | <a href="README.ru.md">🇷🇺 Русский</a> | <a href="README.zh.md">🇨🇳 中文</a>
+  <a href="../README.md">🇺🇸 English</a> | <a href="README.de.md">🇩🇪 Deutsch</a> | <a href="README.es.md">🇪🇸 Español</a> | <a href="README.fr.md">🇫🇷 Français</a> | <a href="README.hi.md">🇮🇳 हिंदी</a> | <a href="README.ja.md">🇯🇵 日本語</a> | <a href="README.ko.md">🇰🇷 한국어</a> | <a href="README.pt.md">🇵🇹 Português</a> | <a href="README.ru.md">🇷🇺 Русский</a> | <a href="README.zh.md">🇨🇳 中文</a>
 </div>
 <!--END_SECTION:navbar-->
 
@@ -213,19 +213,20 @@
 
 Kaggleのコンペティションではチームを作ることもでき、他の人と一緒に学ぶこともできます。私はコミュニティに参加してチームを見つけて一緒に学ぶことをお勧めします。これは、一人で学ぶよりも常に良いです。次のセクションでその方法について確認してください。
 
-## Want to build language models/apps? Check this out (Now with LLMs!)!<a name="nlp"></a>
+## 言語モデルやアプリを構築したいですか？こちらをご覧ください（今やLLMも対応済み！）<a name="nlp"></a>
 
-I had a lot of requests from people wanting to focus on natural language processing (NLP) (models dealing with language) or even learn machine learning strictly for NLP tasks. This is a section dedicated to that need. Happy NLP learning!
-* [A complete roadmap to master NLP in 2022](https://www.analyticsvidhya.com/blog/2022/01/roadmap-to-master-nlp-in-2022/)
-* [Become an NLP pro with Coursera's Natural Language Processing Specialization by deeplearning.ai](https://coursera.pxf.io/P0vO9e) - Paid
- _"Break into the NLP space. Master cutting-edge NLP techniques through four hands-on courses!"_
-* [An NLP Nano Degree!](https://imp.i115008.net/jW4K60) — Paid
-_"Learn cutting-edge natural language processing techniques to process speech and analyze text. Build probabilistic and deep learning models, such as hidden Markov models and recurrent neural networks, to teach the computer to do tasks such as speech recognition, machine translation, and more!"_
-* NLTK Book is the free resource to learn about fundamental theories behind NLP: https://www.nltk.org/book/
-* Looking to build a quick text classification model or word vectorizer, [fasttext](https://fasttext.cc/docs/en/supervised-tutorial.html) is a good library to quickly train up a model.
-* [Huggingface](https://huggingface.co/course/chapter1/1) is THE place to get modern day NLP models, and they also include a whole [course](https://huggingface.co/course/chapter1/1) about it.
-* [SpaCy](https://course.spacy.io/en/) is great for NLP in production, as it does NLU, NER, and one can train classification, etc with it. It's also able to add customized steps or models into the pipeline.
-* [Prompting!](https://learnprompting.org/) Prompting is a new skill that you should master if you want to build NLP-related apps. This is a great course I am contributing to, intending to teach prompting and give tips for specific models.
+自然言語処理（NLP）（言語を扱うモデル）に焦点を当てたいというリクエストや、NLPタスク専用に機械学習を学びたいというリクエストが非常に多かったため、このセクションはそのニーズに応えるために設けられています。楽しいNLP学習を！
+
+* [2022年におけるNLPの完全なロードマップ](https://www.analyticsvidhya.com/blog/2022/01/roadmap-to-master-nlp-in-2022/)
+* [deeplearning.aiによるCourseraの自然言語処理専門職コースでNLPプロになる](https://coursera.pxf.io/P0vO9e) - 有料
+ _"NLP分野に参入しましょう。4つの実践的なコースを通じて、最先端のNLP技術を習得できます！"_
+* [NLPナノデグリー！](https://imp.i115008.net/jW4K60) — 有料
+_"音声処理やテキスト分析のために、最先端の自然言語処理技術を学ぶことができます。確率的および深層学習モデル（隠れマルコフモデルや再帰型ニューラルネットワークなど）を構築し、コンピュータに音声認識や機械翻訳などのタスクを教えることができます！"_
+* NLTK BookはNLPの背後にある基本理論を学ぶための無料リソースです：https://www.nltk.org/book/
+* すぐにテキスト分類モデルや語ベクトル化モデルを構築したい場合は、[fasttext](https://fasttext.cc/docs/en/supervised-tutorial.html)はモデルを素早くトレーニングするための良いライブラリです。
+* [Huggingface](https://huggingface.co/course/chapter1/1)は現代のNLPモデルを入手するための場であり、またそれについての[コース](https://huggingface.co/course/chapter1/1)も提供しています。
+* [SpaCy](https://course.spacy.io/en/)は、NLUやNERを実行し、分類などのトレーニングが可能であり、生産環境でのNLPに最適です。また、パイプラインにカスタマイズされたステップやモデルを追加することも可能です。
+* [プロンプティング！](https://learnprompting.org/) プロンプティングは、NLP関連アプリを構築したい場合に習得すべき新しいスキルです。私はこのコースに貢献しており、プロンプティングを教えるとともに、特定のモデルに対するヒントも提供することを目的としています。
 
 ### 大規模言語モデルのトレーニング、微調整、および使用!
 
@@ -262,44 +263,44 @@ _"Learn cutting-edge natural language processing techniques to process speech an
 
 [<img src="https://imgur.com/hLr2aQF.png" width="512"/>](https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev?ref=1f9b29)
 
-### Follow the news in the field!
+### フィールドのニュースをチェック！
 
-* Subscribe to YouTube channels that share new papers - Stay up to date with the news in the field!
-    * [Louis Bouchard](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) - Weekly videos covering new papers
-    * [Two Minutes Papers](https://www.youtube.com/user/keeroyz) - Bi-weekly videos covering new papers
-    * [Bycloud](https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng) - Weekly videos covering new papers
+* YouTube チャンネルに登録して、新しい論文を共有する - フィールドのニュースを最新情報でチェック！
+    * [Louis Bouchard](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) - 週に1回の動画で新しい論文を紹介
+    * [Two Minutes Papers](https://www.youtube.com/user/keeroyz) - 2週に1回の動画で新しい論文を紹介
+    * [Bycloud](https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng) - 週に1回の動画で新しい論文を紹介
     
-* LinkedIn Groups
-    * [Artificial Intelligence, Machine Learning and Deep Learning News](https://www.linkedin.com/groups/8942343/) - News of the field shared by everyone in the group
+* LinkedIn グループ
+    * [Artificial Intelligence, Machine Learning and Deep Learning News](https://www.linkedin.com/groups/8942343/) - グループ内の人々がフィールドのニュースを共有
     * [Artificial Intelligence | Deep Learning  | Machine Learning](https://www.linkedin.com/groups/45655/)
     * [Applied Artificial Intelligence](https://www.linkedin.com/groups/127447/)
     
-* Facebook Groups
-    * [Artificial Intelligence & Deep Learning](https://www.facebook.com/groups/DeepNetGroup) - The definitive and most active FB Group on A.I., Neural Networks and Deep Learning. All things new and interesting on the frontier of A.I. and Deep Learning. Neural networks will redefine what it means to be a smart machine in the years to come.
-    * [Deep learning](https://www.facebook.com/groups/DeepLearnng/) - Nowadays society tends to be soft and automated evolving into the 4th industrial revolution, which consequently drives the constituents into the swirl of societal upheaval. To survive or take a lead one is supposed to be equipped with associated tools. Machine is becoming smarter and more intelligent. Machine learning is inescapable skill and it requires people to be familiar with. This group is for these people who are interest in the development of their talents to fit in.
-
-* Newsletters
-   * [AlphaSignal](https://alphasignal.ai/) — The Most Read Technical Newsletter in AI
-   * [AI News](https://buttondown.email/ainews/archive/) - by Swyx & friends - a lot of LLM aid going on indexing ~356 Twitters, ~21 Discords, etc. (I personally mostly read the main recap)
-   * [Inside AI](https://inside.com/ai) - A daily roundup of stories and commentary on Artificial Intelligence, Robotics, and Neurotechnology.
-   * [AI Weekly](http://aiweekly.co/) - A weekly collection of AI News and resources on Artificial Intelligence and Machine Learning.
-   * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - The latest updates in AI Ethics delivered to your inbox every week.
-   * [Louis Bouchard Weekly](https://louisbouchard.substack.com/) - One and only one paper clearly explained weekly with an article, video demo, demo, code, etc.
-   * [Toward's AI newsletter](https://towardsai.net/ai/newsletter) - Summarizing the most interesting news and learning resources weekly as well as community updates from the Learn AI Together Discord community. Perfect for ML professionals and enthusiasts.
+* Facebook グループ
+    * [Artificial Intelligence & Deep Learning](https://www.facebook.com/groups/DeepNetGroup) - A.I.、ニューラルネットワーク、およびディープラーニングに関する最も確実で活発なFBグループ。今後数年かけて、ニューラルネットワークはスマートマシンであることを意味するものを再定義することになるでしょう。A.I.とディープラーニングのフロントエッジで新しいことや面白いことすべてが共有されています。
+    * [Deep learning](https://www.facebook.com/groups/DeepLearnng/) - 現在の社会はソフトで自動化されており、第4次産業革命に進化しており、その結果、社会の変革の渦中に巻き込まれています。生き残るか、リードするかは、関連するツールを備えていなければなりません。機械はより賢く、より知的なものになっており、機械学習は避けられないスキルであり、人々がそれに精通する必要があります。このグループは、その才能を発展させることに関心を持つ人々のためにあります。
     
-* Follow Medium accounts and publications
-    * [Towards Data Science](https://towardsdatascience.com/) - "Sharing concepts, ideas, and codes"
-    * [Towards AI](https://medium.com/towards-artificial-intelligence) - "The Best of Tech, Science, and Engineering."
-    * [OneZero](https://onezero.medium.com/) - "The undercurrents of the future. A Medium publication about tech and science."
-    * [Louis Bouchard](https://whats-ai.medium.com/) - "Hi, I am Louis (loo·ee, French pronunciation), from Montreal, Canada. I try to share and explain artificial intelligence terms and news the best way I can for everyone. My goal is to demystify the AI “black box” for everyone and sensitize people about the risks of using it."
+* ニュースレター
+   * [AlphaSignal](https://alphasignal.ai/) — AI分野で最も読まれている技術的なニュースレター
+   * [AI News](https://buttondown.email/ainews/archive/) - Swyx & friendsによる - LLMの支援が活発に進んでおり、約356のTwitters、約21のDiscordsなどをインデックス化しています（私は主にメインの要約を読みます）
+   * [Inside AI](https://inside.com/ai) - 人工知能、ロボティクス、神経技術に関する物語とコメントの毎日のまとめ。
+   * [AI Weekly](http://aiweekly.co/) - 人工知能と機械学習に関するAIニュースとリソースの週次コレクション。
+   * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - AI倫理に関する最新情報が毎週あなたのメールボックスに届きます。
+   * [Louis Bouchard Weekly](https://louisbouchard.substack.com/) - 週に1回、1つの論文を明確に説明し、記事、動画デモ、デモ、コードなどを提供します。
+   * [Toward's AI newsletter](https://towardsai.net/ai/newsletter) - 週に1回、最も興味深いニュースと学習リソースの要約、およびLearn AI Together Discordコミュニティからのコミュニティアップデートを提供します。MLプロフェッショナルおよび愛好家にとって最適です。
+    
+* Mediumアカウントと出版物をフォロー
+    * [Towards Data Science](https://towardsdatascience.com/) - "概念、アイデア、コードの共有"
+    * [Towards AI](https://medium.com/towards-artificial-intelligence) - "テクノロジー、科学、エンジニアリングの最良の内容"
+    * [OneZero](https://onezero.medium.com/) - "未来の下層構造。テクノロジーと科学に関するMedium出版物"
+    * [Louis Bouchard](https://whats-ai.medium.com/) - "こんにちは、私はルイ（loo·ee、フランス語発音）で、カナダのモントリオール出身です。私は、できるだけ良い方法で人工知能の用語やニュースを共有し、説明しようとしています。私の目標は、人工知能の「ブラックボックス」をすべての人にとって神秘的でなくなるようにすること、そしてその使用に関するリスクについて人々を意識させることです。"
    
-* Check this complete GitHub guide to keep up with AI News
-   * [BAILOOL/DoYouEvenLearn](https://github.com/louisfb01/DoYouEvenLearn) - Essential Guide to keep up with AI/ML/DL/CV
+* AIニュースを追跡するためのこの完全なGitHubガイドを確認してください
+   * [BAILOOL/DoYouEvenLearn](https://github.com/louisfb01/DoYouEvenLearn) - AI/ML/DL/CVを追跡するための必須ガイド
 
 ## Find a machine learning job<a name="findajob"></a>
 
-* Read [this section from the article](https://www.louisbouchard.ai/learnai/#how-to-find-a-job) full of interview tips and **how to prepare for them**.
-* Learn how the interview process goes and getting better at preparing for them by watching how others did it, like the [interview series](https://youtube.com/playlist?list=PLO4GrDnQanVfrRIuIT_1rlLLTgQJdfXmS) I ran with experts from NVIDIA, Zoox (Self-driving company), D-ID (Generative AI Startup), etc.
+* [この記事のこのセクション](https://www.louisbouchard.ai/learnai/#how-to-find-a-job)を読み、面接のための準備方法や**その準備の仕方**についてのヒントを確認してください。
+* NVIDIA、Zoox（自律走行車会社）、D-ID（生成AIスタートアップ）などの専門家と行った[面接シリーズ](https://youtube.com/playlist?list=PLO4GrDnQanVfrRIuIT_1rlLLTgQJdfXmS)を視聴し、面接の進行方法や、それに対する準備の仕方を学び、よりよく準備する方法を学んでください。
 
 ## AI Ethics<a name="aiethics"></a>
 

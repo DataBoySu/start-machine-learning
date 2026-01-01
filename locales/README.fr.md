@@ -1,6 +1,6 @@
 <!--START_SECTION:navbar-->
 <div align="center">
-  <a href="../README.md">🇺🇸 English</a> | <a href="README.de.md">🇩🇪 Deutsch</a> | <a href="README.fr.md">🇫🇷 Français</a> | <a href="README.hi.md">🇮🇳 हिंदी</a> | <a href="README.ja.md">🇯🇵 日本語</a> | <a href="README.ko.md">🇰🇷 한국어</a> | <a href="README.pt.md">🇵🇹 Português</a> | <a href="README.ru.md">🇷🇺 Русский</a> | <a href="README.zh.md">🇨🇳 中文</a>
+  <a href="../README.md">🇺🇸 English</a> | <a href="README.de.md">🇩🇪 Deutsch</a> | <a href="README.es.md">🇪🇸 Español</a> | <a href="README.fr.md">🇫🇷 Français</a> | <a href="README.hi.md">🇮🇳 हिंदी</a> | <a href="README.ja.md">🇯🇵 日本語</a> | <a href="README.ko.md">🇰🇷 한국어</a> | <a href="README.pt.md">🇵🇹 Português</a> | <a href="README.ru.md">🇷🇺 Русский</a> | <a href="README.zh.md">🇨🇳 中文</a>
 </div>
 <!--END_SECTION:navbar-->
 
@@ -91,17 +91,17 @@ Voici une liste de cours incroyables disponibles sur YouTube que vous devriez ab
 
 ### Lire plusieurs articles
 
-Here is a list of awesome articles available online that you should definitely read and are 100% free.
-[Medium](https://whats-ai.medium.com/membership) is pretty much the best place to find great explanations, either on [Towards AI](https://pub.towardsai.net/) or [Towards Data Science](https://towardsdatascience.com/) publications. I also share my own articles there and I love using the platform. You can subscribe to Medium using my affiliated link [here](https://whats-ai.medium.com/membership) if this sounds interesting to you and if you'd like to support me at the same time!
+Voici une liste d'articles incroyables disponibles en ligne que vous devriez absolument lire et qui sont 100 % gratuits.
+[Medium](https://whats-ai.medium.com/membership) est pratiquement le meilleur endroit pour trouver des explications excellentes, soit sur [Towards AI](https://pub.towardsai.net/) ou sur les publications de [Towards Data Science](https://towardsdatascience.com/). Je partage également mes propres articles là-bas et j'adore utiliser la plateforme. Vous pouvez vous abonner à Medium en utilisant mon lien affilié [ici](https://whats-ai.medium.com/membership) si cela vous semble intéressant et si vous souhaitez me soutenir en même temps !
 
-* [Start AI in 2022 — Become an expert from nothing, for free!](https://www.louisbouchard.ai/learnai/) - Louis Bouchard
-* [5 Beginner Friendly Steps to Learn Machine Learning and Data Science with Python](https://towardsdatascience.com/5-beginner-friendly-steps-to-learn-machine-learning-and-data-science-with-python-bf69e211ade5) - Daniel Bourke
-* [What is Machine Learning?](https://medium.com/towards-artificial-intelligence/what-is-machine-learning-ml-b58162f97ec7) - Roberto Iriondo
-* [Machine Learning for Beginners: An Introduction to Neural Networks](https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9) - Victor Zhou
-* [A Beginners Guide to Neural Networks](https://towardsdatascience.com/a-beginners-guide-to-neural-networks-d5cf7e369a13#:~:text=Neural%20networks%20are%20powered%20by,then%20recognize%2C%20interpret%20and%20classify.) - Thomas Davis
-* [Understanding Neural Networks](https://towardsdatascience.com/understanding-neural-networks-22b29755abd9) - Prince Canuma
-* [Reading lists for new MILA students](https://docs.google.com/document/d/1IXF3h0RU5zz4ukmTrVKVotPQypChscNGf5k6E25HGvA/edit#) - Anonymous
-* [The 80/20 AI Reading List](https://medium.com/machine-learning-for-humans/ai-reading-list-c4753afd97a) - Vishal Maini
+* [Démarrer en AI en 2022 — Devenir un expert à partir de rien, gratuitement !](https://www.louisbouchard.ai/learnai/) - Louis Bouchard
+* [5 étapes simples pour débutants pour apprendre l'apprentissage automatique et la science des données avec Python](https://towardsdatascience.com/5-beginner-friendly-steps-to-learn-machine-learning-and-data-science-with-python-bf69e211ade5) - Daniel Bourke
+* [Qu'est-ce que l'apprentissage automatique ?](https://medium.com/towards-artificial-intelligence/what-is-machine-learning-ml-b58162f97ec7) - Roberto Iriondo
+* [Apprentissage automatique pour débutants : une introduction aux réseaux de neurones](https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9) - Victor Zhou
+* [Un guide pour débutants sur les réseaux de neurones](https://towardsdatascience.com/a-beginners-guide-to-neural-networks-d5cf7e369a13#:~:text=Neural%20networks%20are%20powered%20by,then%20recognize%2C%20interpret%20and%20classify.) - Thomas Davis
+* [Comprendre les réseaux de neurones](https://towardsdatascience.com/understanding-neural-networks-22b29755abd9) - Prince Canuma
+* [Listes de lecture pour les nouveaux étudiants de MILA](https://docs.google.com/document/d/1IXF3h0RU5zz4ukmTrVKVotPQypChscNGf5k6E25HGvA/edit#) - Anonyme
+* [La liste de lecture AI 80/20](https://medium.com/machine-learning-for-humans/ai-reading-list-c4753afd97a) - Vishal Maini
 
 ## Lire des livres<a name="readbooks"></a>
 
@@ -260,39 +260,39 @@ _"Apprenez les techniques de pointe de traitement du langage naturel pour traite
 
 [<img src="https://imgur.com/hLr2aQF.png" width="512"/>](https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev?ref=1f9b29)
 
-### Follow the news in the field!
+### Suivez les actualités du domaine !
 
-* Subscribe to YouTube channels that share new papers - Stay up to date with the news in the field!
-    * [Louis Bouchard](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) - Weekly videos covering new papers
-    * [Two Minutes Papers](https://www.youtube.com/user/keeroyz) - Bi-weekly videos covering new papers
-    * [Bycloud](https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng) - Weekly videos covering new papers
+* Abonnez-vous aux chaînes YouTube qui partagent de nouveaux articles - Restez à jour avec les actualités du domaine !
+    * [Louis Bouchard](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) - Vidéos hebdomadaires couvrant de nouveaux articles
+    * [Two Minutes Papers](https://www.youtube.com/user/keeroyz) - Vidéos bi-hebdomadaires couvrant de nouveaux articles
+    * [Bycloud](https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng) - Vidéos hebdomadaires couvrant de nouveaux articles
     
-* LinkedIn Groups
-    * [Artificial Intelligence, Machine Learning and Deep Learning News](https://www.linkedin.com/groups/8942343/) - News of the field shared by everyone in the group
+* Groupes LinkedIn
+    * [Artificial Intelligence, Machine Learning and Deep Learning News](https://www.linkedin.com/groups/8942343/) - Actualités du domaine partagées par tous les membres du groupe
     * [Artificial Intelligence | Deep Learning  | Machine Learning](https://www.linkedin.com/groups/45655/)
     * [Applied Artificial Intelligence](https://www.linkedin.com/groups/127447/)
     
-* Facebook Groups
-    * [Artificial Intelligence & Deep Learning](https://www.facebook.com/groups/DeepNetGroup) - The definitive and most active FB Group on A.I., Neural Networks and Deep Learning. All things new and interesting on the frontier of A.I. and Deep Learning. Neural networks will redefine what it means to be a smart machine in the years to come.
-    * [Deep learning](https://www.facebook.com/groups/DeepLearnng/) - Nowadays society tends to be soft and automated evolving into the 4th industrial revolution, which consequently drives the constituents into the swirl of societal upheaval. To survive or take a lead one is supposed to be equipped with associated tools. Machine is becoming smarter and more intelligent. Machine learning is inescapable skill and it requires people to be familiar with. This group is for these people who are interest in the development of their talents to fit in.
-
-* Newsletters
-   * [AlphaSignal](https://alphasignal.ai/) — The Most Read Technical Newsletter in AI
-   * [AI News](https://buttondown.email/ainews/archive/) - by Swyx & friends - a lot of LLM aid going on indexing ~356 Twitters, ~21 Discords, etc. (I personally mostly read the main recap)
-   * [Inside AI](https://inside.com/ai) - A daily roundup of stories and commentary on Artificial Intelligence, Robotics, and Neurotechnology.
-   * [AI Weekly](http://aiweekly.co/) - A weekly collection of AI News and resources on Artificial Intelligence and Machine Learning.
-   * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - The latest updates in AI Ethics delivered to your inbox every week.
-   * [Louis Bouchard Weekly](https://louisbouchard.substack.com/) - One and only one paper clearly explained weekly with an article, video demo, demo, code, etc.
-   * [Toward's AI newsletter](https://towardsai.net/ai/newsletter) - Summarizing the most interesting news and learning resources weekly as well as community updates from the Learn AI Together Discord community. Perfect for ML professionals and enthusiasts.
+* Groupes Facebook
+    * [Artificial Intelligence & Deep Learning](https://www.facebook.com/groups/DeepNetGroup) - Le groupe Facebook le plus définitif et le plus actif sur l'IA, les réseaux neuronaux et le deep learning. Toutes les nouvelles et les choses intéressantes sur la frontière de l'IA et du deep learning. Les réseaux neuronaux redéfiniront ce que cela signifie d'être une machine intelligente dans les années à venir.
+    * [Deep learning](https://www.facebook.com/groups/DeepLearnng/) - Aujourd'hui, la société tend à être douce et automatisée, évoluant vers la quatrième révolution industrielle, ce qui entraîne par conséquent les constituants dans le tourbillon de bouleversements sociaux. Pour survivre ou prendre la tête, on est censé être équipé des outils associés. La machine devient plus intelligente et plus intelligente. L'apprentissage automatique est une compétence incontournable et il nécessite que les gens en soient familiers. Ce groupe est destiné à ces personnes qui souhaitent développer leurs talents pour s'adapter.
     
-* Follow Medium accounts and publications
-    * [Towards Data Science](https://towardsdatascience.com/) - "Sharing concepts, ideas, and codes"
-    * [Towards AI](https://medium.com/towards-artificial-intelligence) - "The Best of Tech, Science, and Engineering."
-    * [OneZero](https://onezero.medium.com/) - "The undercurrents of the future. A Medium publication about tech and science."
-    * [Louis Bouchard](https://whats-ai.medium.com/) - "Hi, I am Louis (loo·ee, French pronunciation), from Montreal, Canada. I try to share and explain artificial intelligence terms and news the best way I can for everyone. My goal is to demystify the AI “black box” for everyone and sensitize people about the risks of using it."
+* Lettres d'information
+   * [AlphaSignal](https://alphasignal.ai/) — La lettre d'information technique la plus lue en IA
+   * [AI News](https://buttondown.email/ainews/archive/) - par Swyx & amis - beaucoup d'aide LLM en cours d'indexation ~356 Twitters, ~21 Discords, etc. (Je lis personnellement principalement le résumé principal)
+   * [Inside AI](https://inside.com/ai) - Un résumé quotidien d'histoires et de commentaires sur l'intelligence artificielle, la robotique et la neurotechnologie.
+   * [AI Weekly](http://aiweekly.co/) - Une collection hebdomadaire de nouvelles en IA et de ressources sur l'intelligence artificielle et l'apprentissage automatique.
+   * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - Les dernières mises à jour sur l'éthique de l'IA livrées dans votre boîte de réception chaque semaine.
+   * [Louis Bouchard Weekly](https://louisbouchard.substack.com/) - Un seul article expliquant clairement un seul article par semaine, avec une vidéo, une démonstration, du code, etc.
+   * [Toward's AI newsletter](https://towardsai.net/ai/newsletter) - Résumé des nouvelles les plus intéressantes et des ressources d'apprentissage ainsi que des mises à jour de la communauté du Learn AI Together Discord. Parfait pour les professionnels et les amateurs de l'apprentissage automatique.
+    
+* Suivez les comptes et les publications Medium
+    * [Towards Data Science](https://towardsdatascience.com/) - "Partage de concepts, d'idées et de codes"
+    * [Towards AI](https://medium.com/towards-artificial-intelligence) - "Le meilleur de la technologie, des sciences et de l'ingénierie."
+    * [OneZero](https://onezero.medium.com/) - "Les sous-courants de l'avenir. Une publication Medium sur la technologie et les sciences."
+    * [Louis Bouchard](https://whats-ai.medium.com/) - "Bonjour, je suis Louis (loo·ee, prononciation française), originaire de Montréal, Canada. J'essaie de partager et d'expliquer les termes et les nouvelles en intelligence artificielle de la meilleure façon possible pour tout le monde. Mon objectif est de démythifier la « boîte noire » de l'IA pour tout le monde et de sensibiliser les gens aux risques de son utilisation."
    
-* Check this complete GitHub guide to keep up with AI News
-   * [BAILOOL/DoYouEvenLearn](https://github.com/louisfb01/DoYouEvenLearn) - Essential Guide to keep up with AI/ML/DL/CV
+* Consultez ce guide complet GitHub pour rester à jour avec les actualités en IA
+   * [BAILOOL/DoYouEvenLearn](https://github.com/louisfb01/DoYouEvenLearn) - Guide essentiel pour rester à jour avec l'IA/ML/DL/CV
 
 ## Trouver un emploi en apprentissage automatique<a name="findajob"></a>
 
